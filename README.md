@@ -1,11 +1,11 @@
-#**Sobre este repositório 🎓**
+# **Sobre este repositório 🎓**
 
 Este repositório é reservado para **minhas aulas práticas de JavaScript** na escola **DNC**.
 Vou usar como ambiente de estudo para treinar conceitos, testar códigos e aperfeiçoar minhas habilidades.
 
 ------------------------------------------------------------------------------------
 
-#🛠️ **Ferramenta principal**
+# 🛠️ **Ferramenta principal**
 
 A principal ferramenta usada aqui é o **Quokka.js**, que me permite:
 
